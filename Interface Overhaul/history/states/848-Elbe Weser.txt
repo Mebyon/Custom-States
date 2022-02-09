@@ -1,0 +1,27 @@
+state={
+	id=848
+	name="STATE_848"
+	history={
+		victory_points = {
+			6389 10 
+		}
+		victory_points = {
+			9347 20 
+		}
+		owner = GER
+		buildings = {
+			infrastructure = 4
+			arms_factory = 4
+			dockyard = 4
+			air_base = 2
+		}
+		add_core_of = GER
+	}
+	provinces={
+		374 3368 6298 6325 6349 9264 9347 
+	}
+	manpower=1143296
+	state_category=large_city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,20 @@
+state={
+	id=871
+	name="STATE_871"
+	history={
+		owner = FRA
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+		}
+		add_core_of = FRA
+	}
+	provinces={
+		755 6759 6775 9717 9734 11720 
+	}
+	manpower=254000
+	state_category=large_town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

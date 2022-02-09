@@ -1,0 +1,35 @@
+state={
+	id=840
+	name="STATE_840"
+	history={
+		owner = NOR
+		buildings = {
+			infrastructure = 3
+			dockyard = 1
+			53 = {
+				naval_base = 1
+				coastal_bunker = 1
+			}
+			9296 = {
+				naval_base = 3
+				coastal_bunker = 1
+
+			}
+		}
+		victory_points = {
+			53 1 
+		}
+		victory_points = {
+			9296 1 
+		}
+		add_core_of = NOR
+
+	}
+	provinces={
+		53 65 137 3049 3129 3192 6176 9170 9196 9296 11101 11176 11198 11367 
+	}
+	manpower=880000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

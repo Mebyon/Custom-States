@@ -1,0 +1,25 @@
+state={
+	id=884
+	name="STATE_884"
+	history={
+		owner = ITA
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 1
+			dockyard = 1
+			air_base = 3
+		}
+		add_core_of = ITA
+	}
+	resources={
+		tungsten=1.000
+	}
+	provinces={
+		3772 11723 11891 
+	}
+	manpower=1129092
+	state_category=metropolis
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

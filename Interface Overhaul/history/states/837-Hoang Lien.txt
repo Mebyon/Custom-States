@@ -1,0 +1,18 @@
+state={
+	id=837
+	name="STATE_837"
+	history={
+		add_core_of = VIN
+		owner = FRA
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces={
+		4529 10075 10103 10129 12075 12319 
+	}
+	manpower=10000
+	state_category=rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

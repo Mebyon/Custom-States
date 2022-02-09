@@ -1,0 +1,22 @@
+state={
+	id=844
+	name="STATE_844"
+	history={
+		owner = AUS
+		add_core_of = AUS
+		victory_points = {
+			688 10 
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+		}
+	}
+	provinces={
+		668 671 688 3675 11634 
+	}
+	manpower=901000
+	buildings_max_level_factor=1.000
+	state_category=town 
+	local_supplies=0.000
+}

@@ -1,0 +1,26 @@
+state={
+	id=862
+	name="STATE_862"
+	resources={
+		steel=13.000
+	}
+	history={
+		owner = GER
+		buildings = {
+			infrastructure = 4
+			arms_factory = 2
+			industrial_complex = 1
+		}
+		victory_points = {
+			3535 5 
+		}
+		add_core_of = GER
+	}
+	provinces={
+		3535 9441 9471 11481 
+	}
+	manpower=2112576
+	state_category=metropolis
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
