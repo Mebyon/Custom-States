@@ -1,22 +1,24 @@
+
 state={
-	id=861
-	name="STATE_861"
+	id=203
+	name="STATE_203"
+
 	history={
 		victory_points = {
-			3571 1
+			488 5 
 		}
-		owner = GER
+		owner = SOV
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
 		}
-		add_core_of = GER
 	}
+
 	provinces={
-		571 586 3571 11497 
+		434 458 9451 11409 11424 11438 11454 
 	}
-	manpower=569012
-	state_category=city
+	manpower=2405190
 	buildings_max_level_factor=1.000
+	state_category=large_town
 	local_supplies=0.000
 }

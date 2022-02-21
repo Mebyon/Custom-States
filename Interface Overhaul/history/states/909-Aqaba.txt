@@ -1,0 +1,18 @@
+state={
+	id=909
+	name="STATE_909"
+	history={
+		owner = ENG
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = JOR
+	}
+	provinces={
+		4017 4115 
+	}
+	manpower=48000
+	state_category=rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

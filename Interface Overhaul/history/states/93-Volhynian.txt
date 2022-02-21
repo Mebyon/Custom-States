@@ -1,22 +1,23 @@
+
 state={
-	id=861
-	name="STATE_861"
+	id=93
+	name="STATE_93"
+
 	history={
 		victory_points = {
-			3571 1
+			422 3 
 		}
-		owner = GER
+		owner = POL
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
 		}
-		add_core_of = GER
 	}
+
 	provinces={
-		571 586 3571 11497 
+		422 474 513 3412 11441 
 	}
-	manpower=569012
-	state_category=city
+	manpower=1485600
 	buildings_max_level_factor=1.000
+	state_category=town
 	local_supplies=0.000
 }

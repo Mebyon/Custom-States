@@ -6,4 +6,4 @@ tags={
 	"Gameplay"
 }
 name="Interface Overhaul"
-supported_version="1.11.5"
+supported_version="1.11.*"
